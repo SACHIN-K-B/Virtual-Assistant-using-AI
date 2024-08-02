@@ -41,7 +41,8 @@ This voice assistant is buit in VS Code. It has an ability to understand human s
 * time
 - setuptools,take
 
-# Installation can be done using the pip command. (Example: pip install pyttsx3)
+# Installation can be done using the pip command. 
+(Example: pip install pyttsx3)
 # Inbuilt Libraries Required
 * datetime
 - webbrowser
